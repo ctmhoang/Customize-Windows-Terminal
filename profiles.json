@@ -32,6 +32,10 @@
 				"experimental.retroTerminalEffect":true,
 				"foreground": "#d2fafb",
 				"selectionBackground":"#512b58",
+				"backgroundImage" :"C:/Users/Camer/Documents/dang.gif",
+				"backgroundImageStretchMode":"none",
+				"backgroundImageAlignment":"bottomRight",
+				"backgroundImageOpacity": 0.5,
 				"icon":"ms-appdata:///roaming/ter.ico",
                 "hidden": false
             },
